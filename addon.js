@@ -4,12 +4,12 @@ import fetch from 'node-fetch';
 import torrent2magnet from "torrent2magnet-js";
 import { Buffer } from "buffer";
 
-const verif = ['1080p','2160p','BluRay' ]
-const nonverif = ['.FRENCH.', '.TRUEFRENCH.', ' VFQ ']
+const verif = []
+const nonverif = []
 const apiKey = ''
-const jackettUrl = ''
-const jackettApi = 'veaafa7j0tz4bs61yrbyxl49n99flsx1'
-const jackettIndexer = 'milkie'
+const jackettUrl = 'http://192.168.1.150:9117'
+const jackettApi = 'ewlpj8lk8c26jp5r6mmmgefrs61tvgvp'
+const jackettIndexer = 'Proteus'
 const jackettMovieCat = '2000'
 const jackettSerieCat = '5000'
 
@@ -23,8 +23,8 @@ const manifest = {
     "catalogs": [],
     "resources": ["stream"],
     "types": ["movie", "series", "tv"],
-    "name": "Jackett Milkie",
-    "description": "Stremio Jackett Addon"
+    "name": "Pr0t3Us Jackett Addon",
+    "description": "Stremio Addon"
 };
 
 function getNum(s) {
