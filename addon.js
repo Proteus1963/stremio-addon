@@ -4,9 +4,9 @@ import fetch from 'node-fetch';
 import torrent2magnet from "torrent2magnet-js";
 import { Buffer } from "buffer";
 
-const verif = []
+const verif = ['1080' , 'HDR']
 const nonverif = []
-const apiKey = ''
+const apiKey = 'TEPP2PQ3T6KGFGJ3JCYTTFXBMBX43THVNPNOANY2UUTINCUILXGA'
 const jackettUrl = 'http://192.168.1.150:9117'
 const jackettApi = 'ewlpj8lk8c26jp5r6mmmgefrs61tvgvp'
 const jackettIndexer = 'Proteus'
