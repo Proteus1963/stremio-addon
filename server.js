@@ -5,7 +5,7 @@ const { serveHTTP } = pkg;
 import addonInterface from './addon.js';
 // The import does not need curly braces since it's the default export
 
-serveHTTP(addonInterface, { port: process.env.PORT || 59803 });
+serveHTTP(addonInterface, { port: process.env.PORT || 7000 });
 
 
 // when you've deployed your addon, un-comment this line
