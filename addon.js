@@ -9,7 +9,7 @@ const nonverif = []
 const apiKey = 'TEPP2PQ3T6KGFGJ3JCYTTFXBMBX43THVNPNOANY2UUTINCUILXGA'
 const jackettUrl = 'http://192.168.1.150:9117'
 const jackettApi = 'x99nve4zvkbdgf4xdkywngveohh9rzib'
-const jackettIndexer = ''
+const jackettIndexer = 'all'
 const jackettMovieCat = '2000'
 const jackettSerieCat = '5000'
 
