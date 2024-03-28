@@ -8,8 +8,8 @@ const verif = ['1080' , 'HDR']
 const nonverif = []
 const apiKey = 'TEPP2PQ3T6KGFGJ3JCYTTFXBMBX43THVNPNOANY2UUTINCUILXGA'
 const jackettUrl = 'http://192.168.1.150:9117'
-const jackettApi = 'ewlpj8lk8c26jp5r6mmmgefrs61tvgvp'
-const jackettIndexer = 'Proteus'
+const jackettApi = 'x99nve4zvkbdgf4xdkywngveohh9rzib'
+const jackettIndexer = ''
 const jackettMovieCat = '2000'
 const jackettSerieCat = '5000'
 
